@@ -1,16 +1,17 @@
-## Hi there 👋
+# Jaron
 
-<!--
-**jaronskijakub/jaronskijakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angular enjoyer. Backend curious. Prompt engineer by necessity.
 
-Here are some ideas to get you started:
+Six years in Angular: micro-frontends, Module Federation, RxJs, NgRx, Signals. I picked up C#/.NET because staying frontend-only meant leaving half the stack untouched. Claude Code is part of my daily workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I've shipped
+
+**[jestzlecenie.pl](https://jestzlecenie.pl)**
+A local marketplace where neighbors hire neighbors for jobs nobody wants to do alone: moving furniture, fixing things, gardening. I built the Angular frontend solo, from first commit to real users. It's still running.
+
+**[retrofantasy.football](https://retrofantasy.football)**
+A fantasy football game where you draft a squad from a historical World Cup knockout round and survive against progressively older eras. Scoring runs server-side so players can't see results early. I built it with React and FastAPI, mostly through Claude Code.
+
+## Stack
+
+`Angular` `TypeScript` `RxJS` `NgRx Signals` `React` `.NET` `Claude Code`
