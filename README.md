@@ -14,4 +14,4 @@ A fantasy football game where you draft a squad from a historical World Cup knoc
 
 ## Stack
 
-`Angular` `TypeScript` `RxJS` `NgRx Signals` `React` `.NET` `Claude Code`
+`Angular` `TypeScript` `RxJS` `React` `.NET` `Claude Code`
