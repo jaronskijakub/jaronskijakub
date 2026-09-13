@@ -1,6 +1,6 @@
 # Jaron
 
-Angular enjoyer. Backend curious. Prompt engineer by necessity.
+Angular enjoyer. Backend curious. AI-native by choice.
 
 Six years in Angular: micro-frontends, Module Federation, RxJs, NgRx, Signals. I picked up C#/.NET because staying frontend-only meant leaving half the stack untouched. Claude Code is part of my daily workflow.
 
